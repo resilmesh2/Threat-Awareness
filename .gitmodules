@@ -1,3 +1,6 @@
 [submodule "AI-Based-Detector"]
 	path = AI-Based-Detector
 	url = https://github.com/resilmesh2/AI-Based-Detector.git
+[submodule "AI-Correlation"]
+	path = AI-Correlation
+	url = https://github.com/resilmesh2/AI-Correlation.git
