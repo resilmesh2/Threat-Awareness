@@ -4,3 +4,6 @@
 [submodule "AI-Correlation"]
 	path = AI-Correlation
 	url = https://github.com/resilmesh2/AI-Correlation.git
+[submodule "Threat-Hunting-And-Forensics"]
+	path = Threat-Hunting-And-Forensics
+	url = https://github.com/resilmesh2/Threat-Hunting-And-Forensics.git
