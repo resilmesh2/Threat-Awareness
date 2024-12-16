@@ -7,3 +7,6 @@
 [submodule "Threat-Hunting-And-Forensics"]
 	path = Threat-Hunting-And-Forensics
 	url = https://github.com/resilmesh2/Threat-Hunting-And-Forensics.git
+[submodule "RobustCTI"]
+	path = RobustCTI
+	url = https://github.com/resilmesh2/RobustCTI.git
