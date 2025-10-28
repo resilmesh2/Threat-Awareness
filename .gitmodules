@@ -10,3 +10,6 @@
 [submodule "RobustCTI"]
 	path = RobustCTI
 	url = https://github.com/resilmesh2/RobustCTI.git
+[submodule "PP-CTI"]
+	path = PP-CTI
+	url = https://github.com/resilmesh2/PP-CTI.git
