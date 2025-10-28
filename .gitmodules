@@ -16,3 +16,6 @@
 [submodule "wazuh-docker"]
 	path = wazuh-docker
 	url = https://github.com/resilmesh2/wazuh-docker.git
+[submodule "MISP_Server-docker"]
+	path = MISP_Server-docker
+	url = https://github.com/resilmesh2/MISP_Server-docker.git
