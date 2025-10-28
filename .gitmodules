@@ -13,3 +13,6 @@
 [submodule "PP-CTI"]
 	path = PP-CTI
 	url = https://github.com/resilmesh2/PP-CTI.git
+[submodule "wazuh-docker"]
+	path = wazuh-docker
+	url = https://github.com/resilmesh2/wazuh-docker.git
