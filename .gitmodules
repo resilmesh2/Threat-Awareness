@@ -19,3 +19,6 @@
 [submodule "MISP_Server-docker"]
 	path = MISP_Server-docker
 	url = https://github.com/resilmesh2/MISP_Server-docker.git
+[submodule "IoB"]
+	path = IoB
+	url = https://github.com/resilmesh2/IoB.git
