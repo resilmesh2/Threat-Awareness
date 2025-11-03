@@ -19,3 +19,7 @@
 [submodule "IoB"]
 	path = IoB
 	url = https://github.com/resilmesh2/IoB.git
+[submodule "AI_Based_Detector"]
+	path = AI_Based_Detector
+	url = https://github.com/resilmesh2/AI_Based_Detector.git
+	branch = main
