@@ -23,3 +23,7 @@
 	path = AI_Based_Detector
 	url = https://github.com/resilmesh2/AI_Based_Detector.git
 	branch = main
+[submodule "Anomaly-Detectors"]
+	path = Anomaly-Detectors
+	url = https://github.com/resilmesh2/Anomaly-Detectors.git
+	branch = main
