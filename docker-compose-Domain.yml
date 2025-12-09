@@ -5,5 +5,6 @@ include:
   - ./IoB/docker-compose.yml
   - ./MISP_Server-docker/docker-compose.yml     #Deployed in advanced with script due to dependencies with other components
   - ./PP-CTI/compose.yaml
-  # - ./Threat-Hunting-And-Forensics/DFIR/docker-compose.yml   #to be done
+  # - ./Threat-Hunting-And-Forensics/DFIR/docker-compose.yml
+  # - ./Threat-Hunting-And-Forensics/THF/docker-compose.yml
   - ./wazuh-docker/compose.yaml
